@@ -1,6 +1,6 @@
 # Data Cleaning with Pandas 🐼
 
-👉 Find the complete article [here](https://hackmd.io/rtqPSY22Tha3PE0VDAjiYQ?both)✨
+👉 Find the complete article [here](https://jamieinca.medium.com/data-cleaning-with-python-pandas-b1da6813b448)✨
 
 ### Requirements
 
